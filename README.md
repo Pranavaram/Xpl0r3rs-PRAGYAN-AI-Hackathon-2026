@@ -58,7 +58,3 @@ The current model (v2.0) has been optimized for High Sensitivity to ensure patie
 
 High Risk Recall: 97% (catches almost all critical cases).
 Approach: Uses class weights and oversampling to handle the rarity of medical emergencies in training data.
-📄 License
-This project is licensed under the MIT License - see the 
-LICENSE
- file for details.
