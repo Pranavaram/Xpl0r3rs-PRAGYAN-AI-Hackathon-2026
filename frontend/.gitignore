@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Do not add backend here — SOL lives in the workspace as a separate folder
+/SOL
+
+# IDE / OS
+.DS_Store
+*.log

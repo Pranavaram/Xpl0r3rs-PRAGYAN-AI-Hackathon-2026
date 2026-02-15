@@ -1,0 +1,553 @@
+PatientID,Age,Gender,Chief_Complaint,Symptoms,Systolic_BP,Heart_Rate,Body_Temperature_C,Respiratory_Rate,SpO2,Onset_Duration_Value,Onset_Duration_Unit,Allergies,Current_Medications,Pre_Existing_Conditions,Risk_Level,Department
+b6a0ddfc,77.0,F,severe headache,"throbbing headache, vomiting",127,67,36.47,18,95.0,19.3,hours,,Aspirin,,Low,Neurology
+4b7f37e1,25.0,M,dizziness,"weakness, near fainting",105,89,35.49,24,93.0,1.8,months,,Aspirin,,Low,General_Medicine
+e6f11411,85.0,F,fever and cough,"body pain, high fever",98,87,36.63,20,95.0,5.0,days,,Paracetamol,,Low,General_Medicine
+33577a7d,22.0,M,shortness of breath,"difficulty breathing, wheezing",132,60,37.74,18,96.0,5.3,hours,NSAIDs,,,Low,General_Medicine
+8c959f77,83.0,F,shortness of breath,"fatigue, wheezing",111,78,36.56,14,100.0,14.1,hours,,Aspirin,,Low,General_Medicine
+5b09a5e4,84.0,F,shortness of breath,"difficulty breathing, fatigue",153,79,36.83,19,99.0,8.4,months,,,,Low,General_Medicine
+f84f8183,36.0,F,fever and cough,"high fever, body pain",107,48,36.89,16,96.0,0.5,months,"Seafood, Penicillin",Antihypertensives,,Low,General_Medicine
+369ed3bf,42.0,F,general weakness,"malaise, tiredness",138,90,37.72,15,99.0,9.1,hours,Seafood,,Diabetes,Low,General_Medicine
+972cf4df,43.0,M,dizziness,"weakness, giddiness",124,64,38.15,8,95.0,1.2,days,NSAIDs,"Aspirin, Inhalers","Asthma, CAD",Low,General_Medicine
+ee96e3bd,81.0,M,general weakness,"malaise, loss of appetite",125,69,37.15,15,97.0,3.9,hours,,"Paracetamol, Aspirin",,Low,General_Medicine
+726216f1,60.0,F,fever and cough,"body pain, dry cough",128,64,36.88,9,99.0,0.5,years,,"Antihypertensives, Inhalers",CAD,Low,General_Medicine
+7b4cb9b8,19.0,M,abdominal pain,"stomach pain, vomiting",128,106,37.81,11,91.0,0.5,hours,,"Paracetamol, Inhalers",Asthma,Medium,General_Medicine
+15b3cadf,74.0,M,fever and cough,"high fever, dry cough",115,86,35.66,18,97.0,4.5,hours,,,"COPD, Asthma",Low,General_Medicine
+39bfbb62,58.0,M,fever and cough,"dry cough, body pain",160,99,36.58,8,93.0,9.1,hours,"Penicillin, Seafood",,,Low,General_Medicine
+2a43aa3e,25.0,F,severe headache,"nausea, vomiting",129,87,37.19,8,96.0,1.3,days,,,"Diabetes, Hypertension",Low,Neurology
+b2a6adbc,73.0,M,road traffic trauma,"swelling, bleeding from wound",115,88,36.96,18,96.0,0.5,hours,"Dust, Penicillin",Antihypertensives,Hypertension,Low,Emergency
+7b09f073,44.0,M,chest pain,"central chest pain, radiating to left arm",133,117,37.32,13,98.0,1.2,days,NSAIDs,,,Low,Cardiology
+a09bb535,22.0,F,road traffic trauma,"swelling, bleeding from wound",95,83,38.15,24,98.0,1.9,months,,,COPD,Low,Orthopedics
+a59f1704,38.0,M,shortness of breath,"difficulty breathing, fatigue",120,75,35.2,21,96.0,0.8,hours,"Seafood, Penicillin",Paracetamol,,Low,General_Medicine
+e3900001,81.0,M,road traffic trauma,"leg pain, bleeding from wound",128,74,35.96,13,100.0,1.9,hours,,"Inhalers, Paracetamol",,Low,Orthopedics
+ee2f7e93,50.0,M,dizziness,"giddiness, weakness",145,102,36.42,18,96.0,2.8,hours,,,,Low,General_Medicine
+52a8f643,72.0,M,abdominal pain,"loose stools, stomach pain",120,102,37.62,8,100.0,2.7,days,,Paracetamol,Asthma,Low,General_Medicine
+e85eaa2e,57.0,M,road traffic trauma,"leg pain, swelling",127,72,36.45,12,92.0,1.1,days,,,Hypertension,Low,Emergency
+3015075b,43.0,M,severe headache,"throbbing headache, nausea",125,82,35.61,10,100.0,2.4,hours,,,,Low,Neurology
+d057bbe6,20.0,M,abdominal pain,"stomach pain, loose stools",107,84,38.24,12,99.0,0.5,days,,"Antibiotics, Antihypertensives",Diabetes,Low,General_Medicine
+7655b7c5,42.0,M,fever and cough,"high fever, dry cough",128,81,35.23,16,95.0,0.5,days,,,,Low,General_Medicine
+e3f468d7,20.0,M,general weakness,"loss of appetite, malaise",140,95,35.17,15,98.0,11.4,hours,,,,Low,General_Medicine
+a762ac4a,75.0,M,abdominal pain,"vomiting, loose stools",87,92,36.79,22,100.0,0.5,days,,"Aspirin, Antibiotics",,Medium,General_Medicine
+ceab358f,71.0,F,road traffic trauma,"swelling, bleeding from wound",133,116,36.11,11,100.0,14.8,hours,"Penicillin, NSAIDs",,Asthma,Medium,Orthopedics
+1a3a16e1,82.0,M,chest pain,"central chest pain, sweating",161,96,36.34,12,96.0,3.5,days,,Paracetamol,COPD,Low,Cardiology
+9eeae2a7,79.0,F,general weakness,"tiredness, malaise",96,79,36.66,18,96.0,0.7,days,Dust,Paracetamol,,Low,General_Medicine
+b6506456,30.0,F,severe headache,"vomiting, nausea",117,94,37.35,15,98.0,1.8,hours,,,CAD,Low,Neurology
+762c5c08,19.0,F,chest pain,"sweating, central chest pain",96,107,36.3,17,97.0,4.0,hours,"Penicillin, Seafood",,COPD,Medium,Cardiology
+0cef804d,88.0,M,severe headache,"nausea, vomiting",135,75,35.65,14,93.0,1.6,months,"NSAIDs, Dust",,,Low,Neurology
+3a550ce1,48.0,F,chest pain,"central chest pain, radiating to left arm",116,80,37.07,18,91.0,4.2,days,,,"COPD, Asthma",Medium,Cardiology
+8488d51a,57.0,F,general weakness,"loss of appetite, tiredness",125,129,37.19,17,97.0,7.0,hours,Dust,"Inhalers, Paracetamol",,Low,General_Medicine
+bcdae1dd,56.0,F,shortness of breath,"difficulty breathing, wheezing",120,104,35.32,18,100.0,4.0,hours,Dust,Aspirin,CAD,Low,General_Medicine
+1455b048,22.0,M,dizziness,"near fainting, weakness",130,84,37.51,21,100.0,2.3,hours,,,Diabetes,Low,General_Medicine
+f8a7bd62,73.0,F,dizziness,"near fainting, weakness",102,69,36.97,14,98.0,1.2,hours,Penicillin,,,Low,General_Medicine
+cc8ba07c,42.0,F,fever and cough,"high fever, dry cough",138,94,36.23,19,93.0,0.5,years,Dust,Aspirin,COPD,Low,General_Medicine
+4b7947fa,71.0,F,road traffic trauma,"leg pain, swelling",104,75,37.65,13,98.0,3.4,hours,,"Paracetamol, Inhalers",,Low,Emergency
+ec555e0c,64.0,F,severe headache,"vomiting, nausea",103,80,37.13,14,94.0,0.5,days,,Aspirin,,Low,Neurology
+a7bfa635,79.0,F,severe headache,"vomiting, nausea",119,74,37.68,12,95.0,7.4,hours,,Antibiotics,"CAD, COPD",Low,Neurology
+3192d293,68.0,M,severe headache,"nausea, throbbing headache",133,89,36.22,19,94.0,0.5,days,,"Paracetamol, Aspirin",,Low,Neurology
+d38dbca1,30.0,F,road traffic trauma,"leg pain, bleeding from wound",118,85,37.41,16,94.0,2.3,hours,,Paracetamol,,Low,Orthopedics
+31df68cc,89.0,F,general weakness,"tiredness, loss of appetite",114,87,36.7,26,97.0,2.7,hours,"Seafood, NSAIDs",Paracetamol,Asthma,Low,General_Medicine
+830a4499,57.0,M,abdominal pain,"loose stools, vomiting",137,75,36.72,19,94.0,8.4,days,NSAIDs,,,Low,General_Medicine
+4f130161,67.0,M,dizziness,"weakness, near fainting",94,53,37.21,20,94.0,4.9,hours,Seafood,,CAD,Low,General_Medicine
+60f8628b,32.0,F,dizziness,"near fainting, giddiness",150,75,36.28,19,97.0,7.8,hours,NSAIDs,Inhalers,"Hypertension, COPD",Low,General_Medicine
+4f94743d,63.0,F,shortness of breath,"difficulty breathing, wheezing",110,69,36.06,13,91.0,6.6,hours,,,,Medium,General_Medicine
+a8d4db8e,84.0,F,road traffic trauma,"leg pain, swelling",111,104,35.85,16,94.0,1.6,hours,Dust,,,Medium,Emergency
+9016d659,19.0,F,abdominal pain,"vomiting, stomach pain",134,84,36.51,16,96.0,0.5,hours,,Antibiotics,CAD,Low,General_Medicine
+ed2acbe4,68.0,M,severe headache,"throbbing headache, vomiting",112,81,36.65,16,94.0,2.2,days,Dust,"Aspirin, Antibiotics",,Low,Neurology
+d43a3e6f,52.0,F,general weakness,"loss of appetite, malaise",137,105,36.54,19,93.0,2.8,days,,"Paracetamol, Antibiotics","CAD, Hypertension",Low,General_Medicine
+549eefd9,84.0,M,abdominal pain,"vomiting, stomach pain",117,100,36.1,16,100.0,0.5,days,NSAIDs,Antibiotics,CAD,Low,General_Medicine
+143bb04d,41.0,F,fever and cough,"dry cough, high fever",130,120,37.13,22,97.0,6.8,days,,"Aspirin, Antibiotics",,Low,General_Medicine
+b81c57dc,80.0,M,shortness of breath,"fatigue, wheezing",87,107,37.04,16,98.0,2.8,days,"NSAIDs, Seafood",,Asthma,Medium,General_Medicine
+7d2fef28,43.0,F,dizziness,"giddiness, weakness",126,109,36.91,16,95.0,4.6,hours,,,,Low,General_Medicine
+33700868,24.0,M,severe headache,"throbbing headache, vomiting",93,60,36.8,22,97.0,4.2,days,"NSAIDs, Penicillin",,,Low,Neurology
+791ed7cb,80.0,M,road traffic trauma,"swelling, bleeding from wound",121,76,37.7,15,100.0,1.1,years,,"Antihypertensives, Paracetamol",,Low,Emergency
+eb55bd19,72.0,M,road traffic trauma,"leg pain, swelling",174,123,36.62,19,89.0,4.3,hours,,Paracetamol,Asthma,Medium,Orthopedics
+106cb2fc,18.0,F,shortness of breath,"wheezing, fatigue",151,96,36.18,8,97.0,1.6,days,,,,Low,General_Medicine
+32d763b8,63.0,F,road traffic trauma,"leg pain, swelling",141,86,35.9,18,97.0,0.8,hours,,,,Low,Emergency
+323205dc,65.0,M,chest pain,"radiating to left arm, central chest pain",84,47,36.85,21,100.0,2.8,hours,Penicillin,"Antihypertensives, Paracetamol",,Medium,Cardiology
+fe38ca4c,55.0,F,dizziness,"near fainting, giddiness",142,61,36.71,8,96.0,5.5,hours,NSAIDs,,,Low,General_Medicine
+51e7c58b,19.0,M,dizziness,"near fainting, giddiness",147,112,36.51,15,95.0,1.1,hours,Penicillin,,,Low,General_Medicine
+45e7921f,60.0,F,general weakness,"tiredness, malaise",136,72,36.03,8,95.0,1.6,days,,,CAD,Low,General_Medicine
+66a351dc,38.0,F,general weakness,"tiredness, malaise",87,119,37.52,23,94.0,3.0,hours,Seafood,Aspirin,,Medium,General_Medicine
+8b748382,87.0,M,chest pain,"central chest pain, sweating",97,84,36.61,11,97.0,0.9,hours,,,,Low,Cardiology
+4ce63f72,35.0,M,general weakness,"loss of appetite, tiredness",116,82,36.4,22,95.0,0.7,days,,Paracetamol,,Low,General_Medicine
+c7bf0fbb,33.0,F,fever and cough,"high fever, body pain",134,108,37.17,14,96.0,1.2,months,,,,Low,General_Medicine
+e4b97b1e,30.0,M,general weakness,"loss of appetite, tiredness",102,40,37.41,18,98.0,5.5,hours,Penicillin,,,Low,General_Medicine
+db02747f,53.0,M,chest pain,"sweating, radiating to left arm",120,78,36.55,16,100.0,5.9,hours,NSAIDs,"Paracetamol, Antihypertensives",,Low,Cardiology
+48b8afbb,25.0,F,fever and cough,"high fever, body pain",149,74,37.38,16,98.0,1.8,months,,Antibiotics,Diabetes,Low,General_Medicine
+b968246e,35.0,F,general weakness,"tiredness, malaise",153,53,37.41,18,95.0,2.1,hours,"NSAIDs, Dust","Paracetamol, Aspirin","COPD, Asthma",Low,General_Medicine
+91849166,71.0,M,road traffic trauma,"swelling, leg pain",94,63,36.01,23,93.0,16.8,hours,"Dust, NSAIDs",Inhalers,,Medium,Emergency
+3bc4db6b,80.0,M,chest pain,"central chest pain, radiating to left arm",104,73,36.58,25,96.0,2.4,months,,"Antibiotics, Antihypertensives",,Low,Cardiology
+20d27f5a,19.0,M,shortness of breath,"fatigue, difficulty breathing",116,81,37.16,16,100.0,11.4,hours,,,,Low,General_Medicine
+75ff161d,61.0,F,severe headache,"nausea, vomiting",94,62,36.86,18,94.0,3.0,hours,Penicillin,,COPD,Low,Neurology
+c9e90143,75.0,M,abdominal pain,"vomiting, stomach pain",91,115,38.7,26,99.0,1.2,days,,"Inhalers, Antibiotics",,Medium,General_Medicine
+3869efdc,71.0,F,general weakness,"tiredness, malaise",121,59,37.15,16,95.0,6.0,hours,Penicillin,Aspirin,,Low,General_Medicine
+b40dabed,45.0,F,abdominal pain,"stomach pain, vomiting",113,82,37.18,20,94.0,24.0,hours,,Paracetamol,Asthma,Low,General_Medicine
+9dbcd569,71.0,F,shortness of breath,"difficulty breathing, fatigue",115,67,38.51,21,93.0,3.6,hours,NSAIDs,,"Asthma, COPD",Medium,Pulmonology
+5d28e9c1,58.0,F,chest pain,"central chest pain, sweating",117,65,37.13,16,100.0,3.6,hours,"Penicillin, Seafood",,Asthma,Low,Cardiology
+76d6d618,27.0,M,road traffic trauma,"swelling, leg pain",115,96,37.46,28,98.0,3.1,hours,,Antihypertensives,,Low,Emergency
+d2cfd5e8,72.0,M,chest pain,"radiating to left arm, central chest pain",145,110,38.12,15,95.0,4.7,days,,,,Low,Cardiology
+0c9e9d1e,28.0,M,general weakness,"loss of appetite, malaise",121,85,38.75,22,95.0,4.1,days,"NSAIDs, Dust",,,Low,General_Medicine
+952db42a,50.0,M,general weakness,"loss of appetite, malaise",106,65,38.12,12,97.0,25.1,hours,,Inhalers,Hypertension,Low,General_Medicine
+163e2e9f,25.0,F,abdominal pain,"vomiting, stomach pain",113,91,36.2,20,94.0,0.5,hours,,,,Low,General_Medicine
+b0646216,25.0,F,general weakness,"tiredness, loss of appetite",151,84,37.18,21,98.0,7.7,hours,,,"Diabetes, Asthma",Low,General_Medicine
+5926da8e,29.0,F,severe headache,"vomiting, nausea",114,115,36.97,22,94.0,1.3,days,,Paracetamol,Hypertension,Low,Neurology
+1ed08385,51.0,M,severe headache,"throbbing headache, vomiting",107,72,36.11,19,99.0,1.3,months,,,,Low,Neurology
+16d5e9e1,27.0,F,road traffic trauma,"swelling, bleeding from wound",104,79,36.91,13,99.0,4.7,days,,,,Low,Emergency
+7730be77,70.0,M,chest pain,"sweating, radiating to left arm",121,103,36.28,17,95.0,0.7,days,,,"Diabetes, Asthma",Low,Cardiology
+30009470,35.0,M,road traffic trauma,"bleeding from wound, swelling",81,111,36.74,20,95.0,1.2,days,,Antihypertensives,,Medium,Orthopedics
+a9fc105d,53.0,M,general weakness,"loss of appetite, malaise",124,79,36.33,22,100.0,10.3,hours,,"Aspirin, Antibiotics",,Low,General_Medicine
+e6341b8e,63.0,F,shortness of breath,"fatigue, wheezing",114,75,36.82,21,94.0,2.9,hours,"Dust, Penicillin",,,Low,General_Medicine
+6741b0e1,62.0,M,road traffic trauma,"bleeding from wound, leg pain",148,102,38.15,22,96.0,0.5,months,Seafood,Antibiotics,COPD,Low,Orthopedics
+ffb75bb8,34.0,M,general weakness,"malaise, tiredness",95,112,37.71,21,95.0,1.7,hours,Seafood,,,Low,General_Medicine
+322afe12,42.0,M,general weakness,"loss of appetite, malaise",107,85,35.73,20,94.0,0.5,years,,Antihypertensives,"Diabetes, Asthma",Low,General_Medicine
+0cbf7fc5,40.0,M,fever and cough,"body pain, dry cough",137,115,36.59,20,98.0,2.1,days,,,COPD,Low,General_Medicine
+b206d35c,43.0,F,general weakness,"loss of appetite, malaise",149,117,37.0,18,100.0,4.9,hours,,,,Low,General_Medicine
+e7be7e0d,32.0,F,severe headache,"vomiting, throbbing headache",142,40,36.88,17,97.0,6.0,days,,"Paracetamol, Antihypertensives",,Low,Neurology
+998f4ef4,73.0,M,fever and cough,"body pain, high fever",99,117,37.77,14,89.0,3.8,hours,"NSAIDs, Penicillin",,"COPD, Asthma",Medium,General_Medicine
+14ba63ce,65.0,F,abdominal pain,"stomach pain, vomiting",153,91,37.76,17,92.0,2.1,months,,Inhalers,,Low,General_Medicine
+b2ad4dcc,81.0,M,abdominal pain,"loose stools, stomach pain",153,105,36.78,16,96.0,5.5,hours,,Paracetamol,,Low,General_Medicine
+e34204b7,21.0,F,road traffic trauma,"swelling, bleeding from wound",119,81,37.37,13,98.0,3.1,hours,,Inhalers,"Diabetes, Asthma",Low,Emergency
+3405eda7,32.0,F,abdominal pain,"loose stools, vomiting",124,91,36.42,23,97.0,11.0,hours,NSAIDs,Antibiotics,,Low,General_Medicine
+aab8b683,43.0,M,road traffic trauma,"swelling, leg pain",90,67,37.46,12,97.0,6.8,hours,,,Hypertension,Low,Orthopedics
+6eb4a407,82.0,M,dizziness,"weakness, giddiness",133,82,36.67,18,97.0,3.0,hours,"Seafood, Penicillin",,,Low,General_Medicine
+eab23e3a,55.0,F,severe headache,"nausea, vomiting",94,72,37.87,24,94.0,0.5,hours,Penicillin,Antihypertensives,Diabetes,Low,Neurology
+c032fcfe,30.0,M,abdominal pain,"vomiting, loose stools",94,122,36.4,16,100.0,1.0,months,,,"COPD, Asthma",Medium,General_Medicine
+b14e678b,75.0,M,fever and cough,"dry cough, high fever",121,90,36.56,18,94.0,3.4,hours,"Dust, Penicillin",Paracetamol,,Low,General_Medicine
+311131f4,71.0,F,chest pain,"radiating to left arm, central chest pain",121,100,37.89,16,100.0,0.8,hours,Seafood,,,Low,Cardiology
+e60727dd,56.0,F,dizziness,"near fainting, giddiness",104,95,37.81,21,95.0,8.1,hours,Dust,"Inhalers, Paracetamol",,Low,General_Medicine
+a273f8b9,52.0,F,abdominal pain,"vomiting, loose stools",120,102,36.01,21,91.0,1.2,hours,,,,Medium,General_Medicine
+8887c8a5,39.0,M,dizziness,"near fainting, giddiness",134,113,36.35,8,91.0,11.6,hours,,"Antibiotics, Aspirin",,Medium,General_Medicine
+66a66493,43.0,M,abdominal pain,"vomiting, loose stools",132,60,37.36,14,99.0,0.5,days,,,"Asthma, COPD",Low,General_Medicine
+3edd80cd,81.0,M,fever and cough,"body pain, high fever",96,88,36.56,23,100.0,0.9,days,,Antibiotics,,Low,General_Medicine
+db74b374,85.0,F,chest pain,"sweating, central chest pain",81,95,37.15,22,100.0,0.5,days,,"Inhalers, Antihypertensives",,Medium,Cardiology
+5d5f4f80,53.0,F,shortness of breath,"wheezing, difficulty breathing",107,106,37.35,14,95.0,0.5,hours,,,Diabetes,Low,General_Medicine
+b03fc142,83.0,F,dizziness,"giddiness, weakness",80,46,36.53,18,97.0,1.6,hours,Seafood,,Hypertension,Low,General_Medicine
+28cc01bc,63.0,F,chest pain,"sweating, radiating to left arm",87,108,37.57,17,100.0,0.8,months,"Penicillin, Seafood",Antihypertensives,"CAD, Hypertension",Medium,Cardiology
+fb02c9dc,54.0,M,fever and cough,"dry cough, body pain",139,85,37.34,20,98.0,2.5,hours,,Aspirin,,Low,General_Medicine
+0133ab86,36.0,M,general weakness,"malaise, tiredness",145,109,36.36,16,100.0,0.5,hours,,,Asthma,Low,General_Medicine
+745dd187,74.0,M,fever and cough,"dry cough, high fever",119,40,37.19,18,95.0,1.4,years,,Paracetamol,,Low,General_Medicine
+25e6fab4,49.0,F,road traffic trauma,"leg pain, bleeding from wound",119,93,36.86,17,96.0,0.5,months,,,,Low,Orthopedics
+cdb088e2,20.0,F,severe headache,"throbbing headache, vomiting",117,108,35.43,23,97.0,1.2,days,,,,Low,Neurology
+0db7e3b3,75.0,M,road traffic trauma,"bleeding from wound, swelling",122,93,37.83,23,99.0,1.3,hours,Penicillin,Aspirin,Asthma,Low,Emergency
+9ed932a3,22.0,M,shortness of breath,"wheezing, fatigue",105,92,35.57,14,100.0,10.9,hours,,,Hypertension,Low,General_Medicine
+8d3915b5,44.0,M,general weakness,"malaise, tiredness",131,71,38.24,15,97.0,3.1,hours,,,COPD,Low,General_Medicine
+18e1ec58,41.0,F,severe headache,"nausea, throbbing headache",86,100,36.16,15,93.0,1.0,years,,,Diabetes,Medium,Neurology
+1615f33f,58.0,F,fever and cough,"body pain, high fever",145,42,36.35,16,96.0,9.3,months,Seafood,,"Asthma, COPD",Low,General_Medicine
+7f79964a,54.0,F,shortness of breath,"wheezing, fatigue",106,147,37.43,17,94.0,21.7,hours,,,,Medium,General_Medicine
+7aac6127,27.0,F,dizziness,"giddiness, weakness",121,65,36.98,16,93.0,3.2,hours,Penicillin,Antibiotics,COPD,Low,General_Medicine
+90a5d3c1,57.0,M,shortness of breath,"difficulty breathing, fatigue",108,81,36.97,11,95.0,21.7,hours,"NSAIDs, Penicillin","Inhalers, Aspirin",,Low,General_Medicine
+280083e9,50.0,F,severe headache,"throbbing headache, vomiting",122,94,37.13,11,95.0,2.3,days,NSAIDs,,,Low,Neurology
+2ce7b93f,82.0,M,fever and cough,"dry cough, high fever",137,83,37.23,18,98.0,2.1,hours,,,"Asthma, CAD",Low,General_Medicine
+5f2a9b9f,55.0,M,shortness of breath,"fatigue, wheezing",122,69,36.34,15,95.0,5.6,months,,,,Low,General_Medicine
+3f02fbb8,79.0,F,severe headache,"nausea, vomiting",122,79,37.9,22,99.0,1.0,days,,Paracetamol,,Low,Neurology
+5564ece5,65.0,M,general weakness,"tiredness, malaise",94,98,37.33,18,97.0,12.1,hours,"NSAIDs, Seafood","Aspirin, Inhalers",COPD,Low,General_Medicine
+50e814a8,83.0,M,road traffic trauma,"bleeding from wound, swelling",99,87,36.98,15,99.0,4.4,hours,Penicillin,"Antibiotics, Aspirin",,Low,Orthopedics
+c442da1c,45.0,M,chest pain,"sweating, radiating to left arm",112,108,36.35,8,100.0,11.1,hours,Dust,Aspirin,,Low,Cardiology
+5085ee7f,36.0,M,general weakness,"tiredness, loss of appetite",122,89,37.36,11,96.0,6.7,hours,,"Antihypertensives, Antibiotics",,Low,General_Medicine
+5cd6ff83,22.0,F,road traffic trauma,"swelling, leg pain",108,88,36.78,12,93.0,1.5,days,NSAIDs,Aspirin,,Low,Emergency
+5f0b2659,24.0,M,fever and cough,"body pain, high fever",138,83,35.7,18,93.0,2.1,years,NSAIDs,Antihypertensives,"Diabetes, CAD",Low,General_Medicine
+e94a51aa,48.0,M,fever and cough,"high fever, body pain",93,73,37.07,24,98.0,4.2,days,"NSAIDs, Penicillin",,,Low,General_Medicine
+512e30cd,76.0,M,chest pain,"sweating, central chest pain",112,90,37.08,18,96.0,2.6,months,,Antibiotics,Asthma,Low,Cardiology
+d819b5a7,75.0,M,chest pain,"radiating to left arm, sweating",124,90,36.63,19,93.0,4.0,hours,,Paracetamol,Hypertension,Low,Cardiology
+dbcf1f7a,21.0,F,general weakness,"loss of appetite, malaise",143,66,37.1,16,97.0,3.9,hours,,Aspirin,,Low,General_Medicine
+ee6aaeec,55.0,F,abdominal pain,"loose stools, vomiting",129,58,37.66,18,96.0,21.9,hours,Penicillin,Antihypertensives,COPD,Low,General_Medicine
+16210355,87.0,M,abdominal pain,"vomiting, stomach pain",95,86,36.34,17,95.0,2.6,hours,,,"CAD, Diabetes",Low,General_Medicine
+15b99da3,37.0,F,shortness of breath,"fatigue, wheezing",149,86,35.39,17,96.0,6.4,hours,,,Asthma,Low,General_Medicine
+cbdfcd4b,60.0,F,general weakness,"malaise, loss of appetite",111,73,37.44,16,95.0,20.7,hours,,Paracetamol,,Low,General_Medicine
+840e8eed,23.0,M,dizziness,"near fainting, giddiness",105,42,37.18,15,94.0,13.7,hours,,"Antibiotics, Inhalers","Diabetes, Hypertension",Low,General_Medicine
+7050f379,22.0,F,shortness of breath,"fatigue, difficulty breathing",142,70,37.52,15,95.0,3.5,hours,,"Antibiotics, Antihypertensives",CAD,Low,General_Medicine
+a9d2083f,58.0,F,abdominal pain,"stomach pain, vomiting",152,92,37.34,19,98.0,2.5,months,"Seafood, Penicillin",,COPD,Low,General_Medicine
+d8f2c172,22.0,F,abdominal pain,"stomach pain, vomiting",124,85,38.21,18,93.0,0.5,days,Penicillin,,Asthma,Low,General_Medicine
+50836e51,61.0,M,shortness of breath,"fatigue, difficulty breathing",136,72,35.74,18,98.0,9.0,days,,Antibiotics,,Low,General_Medicine
+f78d8ec7,41.0,M,fever and cough,"body pain, dry cough",121,54,36.82,18,100.0,0.5,days,"Seafood, Penicillin",Antibiotics,Diabetes,Low,General_Medicine
+8a855a4b,76.0,F,severe headache,"throbbing headache, vomiting",145,66,37.39,12,95.0,0.5,hours,Seafood,,Asthma,Low,Neurology
+8c3cede0,40.0,F,fever and cough,"body pain, dry cough",104,74,36.62,12,100.0,0.5,hours,"Dust, Penicillin",,Hypertension,Low,General_Medicine
+0172e08b,32.0,F,dizziness,"giddiness, weakness",168,107,37.65,17,99.0,5.4,hours,,,,Low,General_Medicine
+7655f87c,55.0,F,severe headache,"throbbing headache, vomiting",113,98,35.77,17,96.0,0.9,days,,Paracetamol,"CAD, Diabetes",Low,Neurology
+bfadeaf1,25.0,F,abdominal pain,"loose stools, stomach pain",70,93,36.42,21,98.0,7.5,hours,,,,Medium,General_Medicine
+065a5d6d,45.0,F,chest pain,"sweating, central chest pain",116,73,37.65,18,98.0,15.8,hours,,,,Low,Cardiology
+30f1de95,71.0,M,shortness of breath,"difficulty breathing, fatigue",136,80,37.64,21,92.0,4.2,months,,"Antihypertensives, Antibiotics",,Low,General_Medicine
+af62012a,26.0,M,fever and cough,"dry cough, body pain",108,54,36.3,18,98.0,0.9,days,,,Diabetes,Low,General_Medicine
+a55eb06f,23.0,F,severe headache,"vomiting, nausea",143,104,37.18,16,96.0,4.6,hours,,Antibiotics,"CAD, Hypertension",Low,Neurology
+c7c33802,68.0,M,road traffic trauma,"bleeding from wound, leg pain",116,59,38.01,18,94.0,14.3,hours,,,,Low,Orthopedics
+5752c44e,40.0,M,general weakness,"tiredness, loss of appetite",118,73,37.84,13,95.0,8.2,hours,NSAIDs,,Asthma,Low,General_Medicine
+41e9d798,49.0,F,general weakness,"tiredness, malaise",132,97,35.55,13,94.0,0.5,years,Seafood,"Antibiotics, Antihypertensives",,Low,General_Medicine
+5e732004,36.0,F,abdominal pain,"vomiting, stomach pain",117,69,36.76,23,96.0,1.1,hours,Dust,,"CAD, Hypertension",Low,General_Medicine
+fe1779d5,39.0,F,road traffic trauma,"leg pain, bleeding from wound",129,92,35.98,19,88.0,6.3,days,,,"Diabetes, Asthma",Medium,Emergency
+06cb1ab3,78.0,F,road traffic trauma,"bleeding from wound, leg pain",143,88,36.09,22,96.0,0.9,months,"NSAIDs, Seafood","Antibiotics, Inhalers",Asthma,Low,Orthopedics
+168419e0,68.0,M,road traffic trauma,"bleeding from wound, leg pain",101,97,37.41,21,94.0,2.7,years,,"Antibiotics, Aspirin",Hypertension,Low,Orthopedics
+0f244efa,45.0,F,fever and cough,"body pain, high fever",88,76,36.55,14,91.0,3.6,hours,NSAIDs,Antibiotics,"Diabetes, Hypertension",Medium,General_Medicine
+c56e09d2,29.0,M,severe headache,"throbbing headache, vomiting",124,65,37.66,23,95.0,1.0,years,"Dust, Seafood",,,Low,Neurology
+cad7bed8,88.0,M,chest pain,"central chest pain, radiating to left arm",95,83,37.79,20,98.0,0.5,hours,,"Antihypertensives, Antibiotics",,Low,Cardiology
+6d832802,35.0,M,chest pain,"central chest pain, radiating to left arm",127,62,38.87,18,100.0,4.2,hours,Seafood,Aspirin,,Low,Cardiology
+76c3a10d,84.0,F,shortness of breath,"difficulty breathing, wheezing",114,106,37.83,16,99.0,1.2,hours,Penicillin,,"CAD, COPD",Medium,Pulmonology
+96f01aab,39.0,F,fever and cough,"dry cough, high fever",129,86,36.57,16,94.0,4.5,hours,,"Paracetamol, Antibiotics",,Low,General_Medicine
+085e068a,30.0,M,severe headache,"throbbing headache, nausea",115,86,36.9,23,90.0,7.6,hours,,Paracetamol,CAD,Medium,Neurology
+63787288,53.0,M,shortness of breath,"difficulty breathing, fatigue",117,79,36.74,17,99.0,0.5,days,"NSAIDs, Dust","Antihypertensives, Antibiotics",,Low,General_Medicine
+4a5a4800,37.0,F,fever and cough,"dry cough, body pain",101,100,38.53,12,100.0,6.6,hours,Seafood,Aspirin,,Low,General_Medicine
+5e239ef0,84.0,F,road traffic trauma,"bleeding from wound, swelling",123,63,35.23,20,96.0,0.5,days,Dust,Aspirin,,Low,Emergency
+fe677899,66.0,M,fever and cough,"dry cough, body pain",116,94,37.25,20,93.0,9.1,hours,,Antibiotics,,Low,General_Medicine
+c6ba20a8,33.0,M,fever and cough,"body pain, dry cough",167,85,38.42,13,91.0,0.7,hours,,,Hypertension,Low,General_Medicine
+07b73b9d,44.0,F,shortness of breath,"wheezing, fatigue",108,133,36.95,19,100.0,1.6,hours,,,,Medium,General_Medicine
+efe3b41f,82.0,M,abdominal pain,"vomiting, stomach pain",106,111,37.72,15,95.0,0.5,days,"NSAIDs, Dust","Antibiotics, Paracetamol",,Low,General_Medicine
+9db2316b,29.0,F,road traffic trauma,"leg pain, swelling",120,78,36.96,21,100.0,0.7,days,"Dust, Seafood",Aspirin,,Low,Emergency
+8c6de286,36.0,M,general weakness,"loss of appetite, tiredness",112,86,37.43,13,95.0,3.1,days,,,"Diabetes, CAD",Low,General_Medicine
+382cf826,63.0,M,abdominal pain,"stomach pain, vomiting",136,100,38.08,15,94.0,1.1,hours,,,,Low,General_Medicine
+d7192660,74.0,F,chest pain,"central chest pain, sweating",99,81,37.15,20,98.0,0.9,hours,,,,Low,Cardiology
+495fdfac,56.0,M,road traffic trauma,"leg pain, bleeding from wound",102,71,37.6,11,96.0,0.5,years,,"Antibiotics, Antihypertensives","COPD, CAD",Low,Orthopedics
+e3c54217,51.0,F,severe headache,"vomiting, nausea",120,67,37.65,18,96.0,6.0,hours,Dust,"Antibiotics, Inhalers",,Low,Neurology
+4bab5854,88.0,M,shortness of breath,"difficulty breathing, fatigue",114,99,35.36,22,98.0,0.5,hours,,,,Low,General_Medicine
+ec4d862a,60.0,F,chest pain,"radiating to left arm, central chest pain",119,75,37.63,19,97.0,0.5,days,,Antibiotics,,Low,Cardiology
+7a9fff73,88.0,F,severe headache,"throbbing headache, vomiting",89,96,36.96,18,96.0,0.7,hours,,"Inhalers, Antibiotics",,Medium,Neurology
+c3dc0845,85.0,M,severe headache,"vomiting, nausea",138,77,36.6,15,100.0,0.5,hours,,Antibiotics,,Low,Neurology
+0d8ac26a,21.0,F,general weakness,"malaise, loss of appetite",79,74,37.43,16,95.0,21.6,hours,,,,Low,General_Medicine
+4b565fb9,72.0,F,severe headache,"vomiting, throbbing headache",132,65,36.04,14,100.0,6.0,hours,Dust,,Asthma,Low,Neurology
+60ade796,74.0,F,fever and cough,"dry cough, high fever",150,61,37.42,8,100.0,7.9,hours,,,Asthma,Low,General_Medicine
+b96343d4,34.0,M,chest pain,"sweating, radiating to left arm",102,107,37.61,22,95.0,4.3,hours,,Paracetamol,"Hypertension, Asthma",Low,Cardiology
+ce4de463,50.0,F,severe headache,"vomiting, nausea",146,43,35.36,20,97.0,0.5,years,Seafood,,Diabetes,Low,Neurology
+77aa07fe,54.0,M,shortness of breath,"difficulty breathing, wheezing",92,92,36.28,28,94.0,1.9,months,,,,Medium,General_Medicine
+3fa73d8f,82.0,M,shortness of breath,"fatigue, wheezing",107,72,37.77,19,98.0,1.2,days,,"Aspirin, Antihypertensives",CAD,Low,General_Medicine
+90796953,71.0,M,severe headache,"throbbing headache, vomiting",90,46,35.84,16,93.0,2.1,days,,,"Diabetes, Asthma",Low,Neurology
+2041c1d7,58.0,M,dizziness,"near fainting, giddiness",136,71,36.76,17,100.0,16.0,hours,,,,Low,General_Medicine
+50becd08,87.0,M,severe headache,"throbbing headache, vomiting",137,73,36.71,18,100.0,0.6,days,"Dust, NSAIDs",,,Low,Neurology
+08a30429,61.0,F,abdominal pain,"loose stools, vomiting",114,75,37.03,15,97.0,4.7,hours,Penicillin,Inhalers,,Low,General_Medicine
+f711fc7f,20.0,M,shortness of breath,"difficulty breathing, fatigue",136,73,36.42,17,100.0,0.5,hours,,Aspirin,CAD,Low,General_Medicine
+028a05cd,75.0,M,chest pain,"central chest pain, sweating",121,124,37.31,14,94.0,1.3,days,"Dust, Penicillin",,COPD,Medium,Cardiology
+257439f8,34.0,F,fever and cough,"body pain, dry cough",122,88,37.43,16,97.0,1.5,hours,NSAIDs,"Inhalers, Paracetamol","COPD, CAD",Low,General_Medicine
+d40ea7ad,71.0,F,road traffic trauma,"leg pain, bleeding from wound",116,86,36.82,13,100.0,1.3,months,,Antihypertensives,,Low,Orthopedics
+03e18485,24.0,F,chest pain,"radiating to left arm, central chest pain",86,104,37.07,14,98.0,4.6,days,,Inhalers,Asthma,Medium,Cardiology
+e58eacf5,65.0,F,road traffic trauma,"swelling, bleeding from wound",144,98,36.41,16,100.0,1.2,days,,"Inhalers, Aspirin",,Low,Emergency
+34c2a285,85.0,M,chest pain,"central chest pain, radiating to left arm",139,129,36.66,23,96.0,3.4,hours,"NSAIDs, Dust",,,Medium,Cardiology
+3e903176,73.0,M,fever and cough,"high fever, body pain",159,81,36.06,17,94.0,11.0,hours,,Paracetamol,"CAD, Hypertension",Low,General_Medicine
+e749c59f,68.0,M,severe headache,"throbbing headache, nausea",135,88,35.17,20,100.0,3.4,hours,,,,Low,Neurology
+2b761aa0,40.0,M,dizziness,"near fainting, giddiness",155,75,36.36,8,99.0,12.1,hours,Seafood,"Inhalers, Antihypertensives",COPD,Low,General_Medicine
+34170db3,66.0,F,chest pain,"sweating, radiating to left arm",137,68,37.24,24,99.0,1.0,days,"Seafood, Penicillin",,,Low,Cardiology
+dbf5540d,21.0,M,severe headache,"nausea, vomiting",127,75,36.51,13,100.0,0.5,years,Dust,Antibiotics,,Low,Neurology
+c98621f7,54.0,F,chest pain,"radiating to left arm, sweating",85,83,37.57,15,95.0,3.0,years,,,,Medium,Cardiology
+9fc71081,30.0,F,abdominal pain,"vomiting, stomach pain",115,96,36.3,16,100.0,3.6,hours,Penicillin,,"CAD, Asthma",Low,General_Medicine
+f1537ee2,63.0,F,general weakness,"malaise, loss of appetite",107,103,36.49,20,99.0,1.0,hours,,Antibiotics,,Low,General_Medicine
+773e1397,34.0,F,general weakness,"tiredness, loss of appetite",122,61,37.2,10,98.0,1.3,months,,,"Diabetes, COPD",Low,General_Medicine
+cf45d044,73.0,M,shortness of breath,"wheezing, fatigue",107,91,35.63,18,99.0,1.4,days,,,,Low,General_Medicine
+ab6d558d,39.0,M,road traffic trauma,"swelling, leg pain",120,97,37.26,18,100.0,18.7,hours,Penicillin,,,Low,Orthopedics
+dfb89f1b,34.0,M,general weakness,"tiredness, malaise",102,69,37.6,19,93.0,10.0,hours,Dust,,"CAD, Asthma",Low,General_Medicine
+0593247c,53.0,M,fever and cough,"dry cough, high fever",136,76,37.24,19,92.0,2.8,hours,"Dust, NSAIDs","Aspirin, Antibiotics",COPD,Low,General_Medicine
+de462f51,36.0,M,chest pain,"sweating, radiating to left arm",113,91,36.74,14,100.0,1.0,days,Seafood,Aspirin,,Low,Cardiology
+a94b2da8,79.0,F,shortness of breath,"fatigue, difficulty breathing",114,116,38.09,16,97.0,4.0,days,,Antihypertensives,,Medium,General_Medicine
+f0c2a2d8,21.0,M,severe headache,"throbbing headache, nausea",114,88,35.91,20,98.0,4.2,hours,,,"CAD, Asthma",Low,Neurology
+378c1222,18.0,M,severe headache,"vomiting, throbbing headache",145,99,37.46,15,92.0,0.5,years,,"Paracetamol, Antihypertensives",,Low,Neurology
+68f6a98a,24.0,M,severe headache,"nausea, vomiting",146,104,37.22,20,95.0,2.1,days,,,Diabetes,Low,Neurology
+06009060,28.0,M,abdominal pain,"vomiting, loose stools",92,110,36.75,18,100.0,1.9,months,"Penicillin, Seafood","Antibiotics, Antihypertensives",CAD,Low,General_Medicine
+5247172d,49.0,F,shortness of breath,"fatigue, difficulty breathing",109,98,38.53,24,99.0,0.5,years,,"Aspirin, Inhalers",,Low,General_Medicine
+0e436b8f,47.0,M,severe headache,"throbbing headache, nausea",111,100,36.8,25,100.0,0.5,years,,,,Low,Neurology
+7d823bad,71.0,M,dizziness,"weakness, near fainting",131,54,36.08,16,95.0,0.5,hours,,,Asthma,Low,General_Medicine
+0db9f513,60.0,M,road traffic trauma,"swelling, bleeding from wound",149,78,37.46,15,96.0,1.6,hours,,,,Low,Orthopedics
+aed2d80f,24.0,F,fever and cough,"dry cough, high fever",106,78,37.32,12,94.0,2.3,months,NSAIDs,,"COPD, Hypertension",Low,General_Medicine
+3116c459,51.0,M,abdominal pain,"loose stools, stomach pain",92,73,37.25,19,96.0,1.2,days,,Paracetamol,"Diabetes, Asthma",Low,General_Medicine
+bda44d59,23.0,M,general weakness,"loss of appetite, tiredness",104,101,36.45,15,96.0,0.5,days,"Dust, Penicillin",Antihypertensives,,Low,General_Medicine
+62e27948,78.0,M,fever and cough,"dry cough, high fever",108,67,37.21,15,99.0,2.0,hours,Dust,,,Low,General_Medicine
+e327e8ad,74.0,M,shortness of breath,"difficulty breathing, fatigue",129,72,36.77,12,97.0,0.5,months,Seafood,Paracetamol,,Low,General_Medicine
+0cec6aea,65.0,M,fever and cough,"dry cough, high fever",96,73,37.45,19,96.0,1.9,months,,,"Asthma, CAD",Low,General_Medicine
+34efbe7e,55.0,M,chest pain,"central chest pain, radiating to left arm",137,83,37.88,20,93.0,2.5,days,"Dust, Penicillin","Antihypertensives, Aspirin",CAD,Low,Cardiology
+c84d73c4,55.0,F,severe headache,"vomiting, throbbing headache",120,93,37.58,16,96.0,5.1,months,,Inhalers,"CAD, Asthma",Low,Neurology
+3037b854,73.0,F,severe headache,"vomiting, nausea",87,67,37.46,16,96.0,19.7,hours,,Aspirin,,Medium,Neurology
+b5447965,65.0,F,shortness of breath,"fatigue, wheezing",135,88,36.1,23,96.0,1.0,days,Seafood,"Aspirin, Inhalers",,Low,General_Medicine
+631fb706,25.0,F,fever and cough,"high fever, body pain",123,109,36.63,25,96.0,0.5,months,NSAIDs,,,Low,General_Medicine
+043d3b86,64.0,F,road traffic trauma,"leg pain, bleeding from wound",118,90,36.94,12,92.0,3.8,hours,,,,Low,Orthopedics
+98c273b7,87.0,F,severe headache,"vomiting, nausea",135,89,36.4,18,99.0,7.5,hours,,"Aspirin, Antihypertensives",,Low,Neurology
+20b9a701,29.0,M,severe headache,"nausea, throbbing headache",123,55,36.22,20,98.0,1.9,days,,Paracetamol,COPD,Low,Neurology
+ff5794fd,51.0,F,severe headache,"throbbing headache, nausea",107,81,37.87,22,96.0,4.6,hours,,"Antibiotics, Aspirin",,Low,Neurology
+8e38a8c1,45.0,F,shortness of breath,"difficulty breathing, wheezing",101,111,37.63,20,95.0,0.5,days,,Aspirin,"Asthma, Hypertension",Low,General_Medicine
+05398e0d,21.0,M,abdominal pain,"stomach pain, loose stools",105,70,37.02,18,97.0,21.4,hours,Penicillin,,"Hypertension, CAD",Low,General_Medicine
+236020b9,49.0,F,severe headache,"vomiting, throbbing headache",130,127,37.46,14,98.0,0.5,hours,,,CAD,Low,Neurology
+fcaf43b8,77.0,F,abdominal pain,"loose stools, stomach pain",145,70,36.83,18,98.0,11.5,hours,,,,Low,General_Medicine
+e3d838bd,71.0,M,abdominal pain,"loose stools, stomach pain",96,108,36.97,16,95.0,1.4,months,,Antihypertensives,,Low,General_Medicine
+a2ba496b,30.0,F,road traffic trauma,"bleeding from wound, swelling",134,87,37.14,19,96.0,11.7,hours,Dust,,"Diabetes, Hypertension",Low,Orthopedics
+76d5daef,18.0,M,shortness of breath,"wheezing, fatigue",118,107,35.75,15,94.0,0.5,hours,,"Antihypertensives, Antibiotics",,Low,General_Medicine
+21689b7a,26.0,F,general weakness,"loss of appetite, tiredness",118,76,36.96,17,96.0,2.3,hours,,Antihypertensives,"COPD, Hypertension",Low,General_Medicine
+4e85d7ee,19.0,M,chest pain,"radiating to left arm, central chest pain",93,93,38.24,14,100.0,1.3,hours,,,,Low,Cardiology
+7ca59844,47.0,F,fever and cough,"dry cough, high fever",152,81,36.77,8,97.0,4.9,hours,,"Antibiotics, Aspirin",COPD,Low,General_Medicine
+d53de3c1,87.0,F,abdominal pain,"vomiting, loose stools",100,114,37.83,13,91.0,0.5,hours,NSAIDs,"Antihypertensives, Antibiotics",,Medium,General_Medicine
+4b8f88f0,47.0,F,shortness of breath,"difficulty breathing, fatigue",138,108,36.34,17,94.0,1.6,days,,"Antibiotics, Paracetamol",,Low,General_Medicine
+2e86e9e0,45.0,M,shortness of breath,"fatigue, wheezing",106,58,37.58,17,93.0,0.5,hours,,,COPD,Low,Pulmonology
+4e850cfc,47.0,F,road traffic trauma,"bleeding from wound, leg pain",133,84,38.39,25,100.0,1.8,hours,,,Asthma,Low,Orthopedics
+f0735799,73.0,F,abdominal pain,"stomach pain, loose stools",106,112,36.81,15,94.0,9.3,months,,Aspirin,Hypertension,Medium,General_Medicine
+82666abe,58.0,F,general weakness,"malaise, tiredness",140,79,36.96,10,98.0,3.1,days,NSAIDs,,"COPD, CAD",Low,General_Medicine
+d101a5af,57.0,F,fever and cough,"high fever, body pain",134,81,36.99,15,97.0,18.9,hours,,,COPD,Low,General_Medicine
+5f820f92,42.0,F,fever and cough,"dry cough, high fever",96,92,38.5,17,100.0,14.1,hours,Dust,,,Low,General_Medicine
+0871a331,47.0,M,abdominal pain,"loose stools, vomiting",106,53,38.13,16,95.0,0.5,hours,,Antibiotics,,Low,General_Medicine
+2801f8d4,68.0,M,chest pain,"radiating to left arm, central chest pain",113,66,36.61,15,98.0,6.9,hours,Seafood,,"CAD, Hypertension",Low,Cardiology
+2205a598,28.0,F,dizziness,"weakness, near fainting",103,50,37.66,15,100.0,1.2,hours,,,CAD,Low,General_Medicine
+4789468e,37.0,F,dizziness,"weakness, giddiness",162,92,37.66,19,100.0,0.7,days,,,,Low,General_Medicine
+32c4a23b,81.0,M,shortness of breath,"fatigue, difficulty breathing",85,118,36.57,20,100.0,5.1,days,Penicillin,Antihypertensives,,Medium,General_Medicine
+ad0c5aff,87.0,F,shortness of breath,"wheezing, difficulty breathing",103,100,37.17,13,95.0,13.3,hours,Dust,,,Low,General_Medicine
+e4277659,36.0,M,road traffic trauma,"swelling, leg pain",121,118,36.17,19,94.0,6.3,hours,"Penicillin, Seafood",Antihypertensives,"COPD, Hypertension",Medium,Orthopedics
+45605aca,25.0,F,road traffic trauma,"bleeding from wound, swelling",123,100,36.55,15,100.0,1.8,hours,,,Hypertension,Low,Orthopedics
+1631f7dd,51.0,M,severe headache,"vomiting, nausea",71,68,36.11,16,100.0,3.5,hours,Seafood,,,Medium,Neurology
+76262479,79.0,M,abdominal pain,"loose stools, stomach pain",109,70,38.33,17,100.0,0.6,hours,,"Antibiotics, Inhalers",,Low,General_Medicine
+b101e931,59.0,F,severe headache,"throbbing headache, nausea",154,103,37.16,16,90.0,12.2,hours,,Aspirin,,Medium,Neurology
+c45be968,22.0,F,general weakness,"tiredness, loss of appetite",107,66,38.54,19,97.0,1.7,days,"NSAIDs, Penicillin",Inhalers,COPD,Low,General_Medicine
+9ebf061d,73.0,M,abdominal pain,"loose stools, stomach pain",102,84,36.48,22,95.0,12.0,hours,,Aspirin,"Hypertension, Diabetes",Low,General_Medicine
+fe84b976,23.0,F,general weakness,"loss of appetite, malaise",134,98,37.35,21,94.0,3.4,hours,,Antihypertensives,,Low,General_Medicine
+5bfc3e93,77.0,M,shortness of breath,"difficulty breathing, wheezing",96,99,37.31,24,96.0,0.5,days,Seafood,"Inhalers, Antihypertensives",,Low,General_Medicine
+a8915191,62.0,M,abdominal pain,"vomiting, loose stools",87,97,37.75,19,94.0,3.8,days,"Penicillin, Dust",,Asthma,Medium,General_Medicine
+6435d16a,63.0,F,road traffic trauma,"bleeding from wound, swelling",114,68,37.26,16,98.0,1.9,months,,,,Low,Emergency
+1712f6cf,71.0,M,chest pain,"sweating, radiating to left arm",146,101,37.4,21,99.0,4.0,hours,,Antibiotics,Hypertension,Low,Cardiology
+7a2c7253,48.0,F,road traffic trauma,"leg pain, swelling",106,90,36.36,25,100.0,1.5,hours,"Seafood, Dust",Paracetamol,Hypertension,Low,Orthopedics
+67acbb51,32.0,M,abdominal pain,"vomiting, loose stools",100,48,38.28,14,96.0,9.2,hours,,Antihypertensives,,Low,General_Medicine
+43b674f7,72.0,M,severe headache,"throbbing headache, vomiting",152,88,37.08,21,100.0,2.4,days,,,"CAD, Diabetes",Low,Neurology
+eaa5b813,61.0,M,abdominal pain,"vomiting, stomach pain",106,70,36.82,25,100.0,7.2,hours,,,COPD,Low,General_Medicine
+e11d9255,68.0,M,dizziness,"near fainting, giddiness",104,77,36.53,22,95.0,1.6,hours,,,Asthma,Low,General_Medicine
+a593b6e0,30.0,M,severe headache,"throbbing headache, vomiting",102,73,36.92,20,89.0,5.9,hours,,Inhalers,,Low,Neurology
+4ff0ac41,29.0,F,dizziness,"near fainting, giddiness",146,66,37.7,11,96.0,4.4,days,,Aspirin,,Low,General_Medicine
+e2c6839e,19.0,M,dizziness,"weakness, near fainting",128,82,36.17,20,99.0,2.5,days,NSAIDs,,Diabetes,Low,General_Medicine
+bacdd4df,78.0,M,general weakness,"loss of appetite, malaise",160,89,36.23,19,93.0,1.4,days,,Inhalers,CAD,Low,General_Medicine
+093719c8,80.0,M,dizziness,"giddiness, near fainting",146,58,36.62,16,93.0,1.5,hours,"NSAIDs, Penicillin",,,Low,General_Medicine
+225c10dd,45.0,F,shortness of breath,"fatigue, wheezing",104,66,36.24,22,94.0,3.7,hours,NSAIDs,,,Low,General_Medicine
+d32a8490,78.0,M,fever and cough,"body pain, dry cough",105,96,38.04,14,100.0,6.7,hours,"Penicillin, Dust","Aspirin, Antibiotics",COPD,Low,General_Medicine
+f560654e,44.0,M,abdominal pain,"loose stools, stomach pain",111,82,36.25,15,97.0,3.0,months,,Antihypertensives,"CAD, Hypertension",Low,General_Medicine
+8e50dba3,71.0,F,dizziness,"giddiness, weakness",88,100,36.17,17,92.0,2.6,hours,Penicillin,,CAD,Medium,General_Medicine
+dfb0e6b8,86.0,M,road traffic trauma,"bleeding from wound, leg pain",117,100,37.09,17,98.0,0.5,days,"Seafood, NSAIDs",Antibiotics,Diabetes,Low,Orthopedics
+e1d5e6cc,68.0,M,abdominal pain,"vomiting, stomach pain",117,69,36.84,17,100.0,3.7,hours,,Inhalers,CAD,Low,General_Medicine
+71db6021,24.0,F,chest pain,"radiating to left arm, sweating",131,59,37.33,12,96.0,11.7,hours,,"Aspirin, Inhalers",,Low,Cardiology
+119f765e,59.0,F,general weakness,"malaise, tiredness",83,75,36.94,16,98.0,5.1,days,,"Aspirin, Inhalers",CAD,Low,General_Medicine
+74189fcd,78.0,M,abdominal pain,"vomiting, stomach pain",130,85,37.16,23,95.0,0.5,hours,,,"Diabetes, COPD",Low,General_Medicine
+d4a726f4,41.0,F,dizziness,"giddiness, near fainting",143,113,35.0,16,100.0,0.8,days,,,"COPD, Diabetes",Low,General_Medicine
+e6178484,89.0,M,shortness of breath,"fatigue, wheezing",82,100,37.65,17,94.0,0.9,hours,,Antihypertensives,,Medium,General_Medicine
+f2156ff8,47.0,M,shortness of breath,"difficulty breathing, wheezing",113,122,36.55,22,100.0,4.1,hours,,Paracetamol,"Hypertension, COPD",Medium,Pulmonology
+17b22386,21.0,F,general weakness,"loss of appetite, tiredness",115,85,36.35,15,98.0,0.5,hours,,,,Low,General_Medicine
+911264b5,26.0,F,severe headache,"throbbing headache, vomiting",114,58,37.05,17,96.0,1.1,hours,"NSAIDs, Dust",Antihypertensives,,Low,Neurology
+44368aa1,55.0,M,general weakness,"malaise, loss of appetite",147,43,38.14,16,96.0,16.7,hours,"Dust, Seafood",Antihypertensives,,Low,General_Medicine
+c71ff7d3,60.0,F,road traffic trauma,"swelling, leg pain",88,40,38.23,19,100.0,2.3,days,,Antibiotics,COPD,Medium,Orthopedics
+de5a5d77,69.0,M,abdominal pain,"vomiting, loose stools",122,48,38.4,26,98.0,0.6,months,NSAIDs,,"Asthma, CAD",Low,General_Medicine
+c951e6fd,36.0,M,general weakness,"loss of appetite, tiredness",98,91,36.98,20,97.0,1.1,hours,,Antihypertensives,Hypertension,Low,General_Medicine
+f42e6095,79.0,M,general weakness,"loss of appetite, tiredness",150,91,38.14,17,95.0,1.1,months,,,,Low,General_Medicine
+41cd85e4,37.0,M,severe headache,"throbbing headache, vomiting",78,93,38.61,19,98.0,0.5,years,Dust,,,Medium,Neurology
+9d35c092,19.0,F,abdominal pain,"stomach pain, loose stools",132,89,37.47,16,100.0,0.5,months,,,Asthma,Low,General_Medicine
+e16d3592,29.0,M,road traffic trauma,"swelling, leg pain",144,74,36.73,19,100.0,5.0,months,"NSAIDs, Dust",,,Low,Orthopedics
+31507317,18.0,F,dizziness,"weakness, near fainting",136,62,36.99,18,98.0,8.0,hours,,Paracetamol,Diabetes,Low,General_Medicine
+eeda6ba0,19.0,F,fever and cough,"dry cough, body pain",95,78,37.62,21,95.0,2.9,days,,,CAD,Low,General_Medicine
+8b6aa65c,32.0,M,abdominal pain,"loose stools, vomiting",154,83,37.41,24,97.0,0.5,hours,,"Paracetamol, Inhalers",,Low,General_Medicine
+d09852ac,57.0,F,general weakness,"tiredness, malaise",105,105,35.82,21,94.0,15.1,hours,,"Inhalers, Antibiotics",,Low,General_Medicine
+7ca5f3a7,22.0,F,dizziness,"near fainting, weakness",159,80,37.0,19,93.0,1.6,hours,,,,Low,General_Medicine
+c043a88c,60.0,M,shortness of breath,"fatigue, wheezing",117,96,37.67,16,96.0,0.6,months,NSAIDs,"Aspirin, Antihypertensives","CAD, Hypertension",Low,General_Medicine
+3039906b,72.0,M,dizziness,"giddiness, weakness",110,86,35.86,25,93.0,1.8,days,NSAIDs,,COPD,Low,General_Medicine
+e18232db,84.0,M,shortness of breath,"difficulty breathing, wheezing",123,101,36.82,20,95.0,0.7,years,,"Paracetamol, Antihypertensives",,Low,General_Medicine
+21f6694c,76.0,M,severe headache,"throbbing headache, vomiting",154,89,37.31,18,94.0,1.3,days,,,"Hypertension, Diabetes",Low,Neurology
+59a218b1,85.0,F,general weakness,"tiredness, loss of appetite",116,81,36.6,17,98.0,3.8,days,,Inhalers,,Low,General_Medicine
+65cced10,39.0,M,abdominal pain,"vomiting, stomach pain",95,78,37.52,17,89.0,10.8,hours,Seafood,Inhalers,,Medium,General_Medicine
+1cbf1e9d,20.0,M,shortness of breath,"wheezing, fatigue",145,107,37.74,14,99.0,2.5,hours,,,"Diabetes, Asthma",Low,General_Medicine
+99589557,46.0,M,shortness of breath,"wheezing, fatigue",99,99,35.63,22,100.0,7.6,hours,,,,Low,General_Medicine
+bb28f5a2,23.0,F,shortness of breath,"difficulty breathing, wheezing",95,49,36.79,22,100.0,3.2,days,,,"Diabetes, COPD",Low,Pulmonology
+cf5df5b4,33.0,F,severe headache,"nausea, vomiting",95,78,38.69,19,93.0,1.8,days,,Inhalers,,Low,Neurology
+5d3b9bf1,34.0,F,road traffic trauma,"leg pain, swelling",129,62,37.03,34,90.0,11.0,hours,,Paracetamol,,Medium,Orthopedics
+4f9679dc,53.0,M,severe headache,"nausea, vomiting",118,119,37.77,18,98.0,0.5,hours,,,,Low,Neurology
+18f69c80,56.0,M,severe headache,"nausea, throbbing headache",124,79,37.4,13,98.0,10.8,hours,,"Paracetamol, Antihypertensives",Asthma,Low,Neurology
+b9ef7195,64.0,F,dizziness,"near fainting, weakness",100,96,36.6,14,97.0,10.7,hours,,Antibiotics,Diabetes,Low,General_Medicine
+014ba235,60.0,M,chest pain,"central chest pain, sweating",154,103,38.01,18,99.0,2.5,hours,NSAIDs,Aspirin,COPD,Low,Cardiology
+e11c18df,32.0,F,road traffic trauma,"leg pain, swelling",112,99,37.19,21,97.0,6.0,months,,Antibiotics,,Low,Emergency
+23cf2155,64.0,F,road traffic trauma,"leg pain, bleeding from wound",105,113,36.14,13,100.0,1.7,hours,,,,Low,Orthopedics
+fcae11ac,71.0,M,shortness of breath,"difficulty breathing, fatigue",140,65,37.24,17,96.0,0.7,days,,"Aspirin, Antihypertensives",CAD,Low,General_Medicine
+c7b4cbe4,75.0,M,general weakness,"tiredness, loss of appetite",103,84,36.22,14,93.0,0.8,days,,"Paracetamol, Antihypertensives",,Low,General_Medicine
+41d7b8e2,70.0,F,general weakness,"tiredness, malaise",112,76,36.56,14,93.0,5.8,days,Dust,Paracetamol,,Low,General_Medicine
+d3c6050c,69.0,F,fever and cough,"dry cough, body pain",101,126,37.53,21,92.0,5.9,hours,Seafood,Inhalers,Asthma,Low,General_Medicine
+50bbd702,58.0,F,dizziness,"weakness, giddiness",114,117,37.78,16,99.0,2.5,months,,,,Low,General_Medicine
+d35200bd,60.0,F,chest pain,"radiating to left arm, central chest pain",100,78,36.73,25,99.0,1.2,days,,,Hypertension,Low,Cardiology
+289969a7,29.0,F,severe headache,"throbbing headache, vomiting",100,99,37.18,14,91.0,2.1,hours,Dust,,,Low,Neurology
+bbcc52be,35.0,M,fever and cough,"dry cough, body pain",139,76,37.72,14,96.0,6.8,hours,"NSAIDs, Penicillin","Antihypertensives, Paracetamol",,Low,General_Medicine
+d69be5bc,86.0,F,shortness of breath,"fatigue, difficulty breathing",113,62,36.23,18,100.0,8.9,hours,"NSAIDs, Seafood","Antihypertensives, Paracetamol",,Low,General_Medicine
+c1219575,30.0,M,abdominal pain,"vomiting, loose stools",128,88,36.1,15,100.0,0.5,months,,Antihypertensives,,Low,General_Medicine
+98932353,55.0,F,fever and cough,"high fever, dry cough",139,105,36.03,20,95.0,1.4,days,"Dust, NSAIDs",Antibiotics,Asthma,Low,General_Medicine
+7c41b7e8,58.0,F,general weakness,"loss of appetite, malaise",130,98,38.0,20,95.0,1.1,hours,,,Asthma,Low,General_Medicine
+23c1500a,53.0,M,general weakness,"malaise, tiredness",114,91,37.21,22,96.0,0.5,days,,,,Low,General_Medicine
+f4e6e7e2,23.0,F,shortness of breath,"difficulty breathing, fatigue",91,90,36.92,18,95.0,9.4,hours,,Aspirin,CAD,Low,General_Medicine
+a45bc1b0,82.0,F,fever and cough,"high fever, dry cough",107,77,37.36,24,96.0,8.5,hours,"Seafood, Dust",,,Low,General_Medicine
+a9330579,29.0,F,fever and cough,"dry cough, high fever",137,54,36.42,10,95.0,1.2,days,,Aspirin,"Diabetes, COPD",Low,General_Medicine
+f3de44a8,51.0,F,road traffic trauma,"bleeding from wound, leg pain",101,91,37.18,14,99.0,3.4,hours,Penicillin,,,Low,Emergency
+2080e183,61.0,F,chest pain,"radiating to left arm, central chest pain",114,129,37.0,21,96.0,2.1,hours,,,COPD,Medium,Cardiology
+fabf7800,22.0,M,chest pain,"sweating, central chest pain",160,86,36.62,19,93.0,0.5,years,,,CAD,Low,Cardiology
+6e278f20,87.0,F,general weakness,"tiredness, malaise",143,95,38.18,22,98.0,1.0,hours,"Penicillin, NSAIDs",,Asthma,Low,General_Medicine
+e3a3497d,39.0,F,road traffic trauma,"leg pain, bleeding from wound",125,115,36.92,18,99.0,12.7,hours,,,Hypertension,Low,Orthopedics
+c77fa91f,47.0,M,shortness of breath,"wheezing, fatigue",116,88,35.55,25,93.0,0.5,days,Seafood,,CAD,Medium,General_Medicine
+cd77e1cc,78.0,F,abdominal pain,"stomach pain, loose stools",111,80,37.85,19,95.0,0.5,years,Penicillin,,"COPD, Hypertension",Low,General_Medicine
+aa791c94,44.0,M,dizziness,"giddiness, near fainting",110,74,36.67,18,100.0,12.9,hours,,"Antibiotics, Paracetamol",CAD,Low,General_Medicine
+7ad6eb5e,88.0,F,severe headache,"throbbing headache, nausea",111,124,35.97,19,99.0,1.4,hours,,,,Low,Neurology
+33bf0dfa,48.0,F,road traffic trauma,"bleeding from wound, leg pain",148,88,37.27,14,94.0,1.4,days,,Aspirin,,Low,Orthopedics
+39b0c25e,27.0,M,chest pain,"central chest pain, sweating",120,130,37.58,20,94.0,1.5,months,NSAIDs,Antihypertensives,,Medium,Cardiology
+d5ac3071,20.0,F,shortness of breath,"fatigue, wheezing",98,71,37.64,22,96.0,2.6,days,,,COPD,Low,Pulmonology
+6ec3ac8c,34.0,M,fever and cough,"body pain, dry cough",81,74,36.91,14,97.0,8.3,hours,Penicillin,Aspirin,CAD,Low,General_Medicine
+c5c0291c,58.0,F,chest pain,"sweating, central chest pain",141,82,37.47,21,100.0,19.3,hours,,Aspirin,,Low,Cardiology
+a629ed5f,82.0,M,fever and cough,"body pain, dry cough",139,73,35.35,17,100.0,6.9,hours,Penicillin,,,Low,General_Medicine
+fa2f88dd,65.0,F,fever and cough,"body pain, high fever",123,79,35.56,13,92.0,0.6,hours,,,,Low,General_Medicine
+f5d98fa5,72.0,F,general weakness,"tiredness, loss of appetite",168,61,37.13,12,90.0,0.5,months,,,,Low,General_Medicine
+47e2e94e,76.0,F,dizziness,"near fainting, giddiness",121,96,36.71,21,96.0,0.5,days,,,,Low,General_Medicine
+05c3e598,20.0,M,chest pain,"sweating, radiating to left arm",103,87,36.47,16,100.0,0.8,days,,Paracetamol,Diabetes,Low,Cardiology
+47487940,22.0,M,abdominal pain,"vomiting, loose stools",110,78,36.2,10,100.0,5.2,hours,,Paracetamol,,Low,General_Medicine
+8601247e,23.0,M,chest pain,"radiating to left arm, sweating",140,80,37.38,13,96.0,5.7,hours,"NSAIDs, Dust","Paracetamol, Antibiotics",,Low,Cardiology
+a6148e86,35.0,M,dizziness,"giddiness, near fainting",136,83,36.55,15,95.0,7.9,hours,,,CAD,Low,General_Medicine
+3e9bee44,37.0,M,shortness of breath,"fatigue, wheezing",158,72,35.8,21,98.0,11.0,days,,Aspirin,,Low,General_Medicine
+17aaf474,42.0,M,dizziness,"giddiness, weakness",95,80,37.74,19,97.0,1.5,days,Penicillin,,"Hypertension, COPD",Low,General_Medicine
+5bf10b33,72.0,F,abdominal pain,"loose stools, vomiting",102,68,36.52,20,96.0,6.7,days,,Antihypertensives,COPD,Low,General_Medicine
+f21cfcbf,43.0,M,road traffic trauma,"leg pain, bleeding from wound",92,105,36.84,20,93.0,0.7,hours,"Penicillin, Dust","Paracetamol, Inhalers","Asthma, Hypertension",Medium,Emergency
+921a0212,40.0,F,chest pain,"radiating to left arm, sweating",96,87,36.97,21,98.0,2.5,months,,Aspirin,,Low,Cardiology
+297f1cf0,76.0,F,chest pain,"central chest pain, radiating to left arm",82,68,36.0,19,100.0,2.4,days,Dust,,,Medium,Cardiology
+5b5344d8,88.0,M,abdominal pain,"vomiting, loose stools",86,84,36.87,19,98.0,1.6,days,,,,Medium,General_Medicine
+bf76dd11,39.0,M,severe headache,"nausea, vomiting",141,105,36.71,18,96.0,0.5,hours,,,,Low,Neurology
+02c9c87c,71.0,F,fever and cough,"dry cough, body pain",74,69,38.14,11,98.0,0.6,months,,,,Medium,General_Medicine
+f5b5bf38,47.0,F,abdominal pain,"vomiting, stomach pain",109,55,36.17,9,97.0,4.4,days,,,COPD,Low,General_Medicine
+79359e5c,38.0,F,road traffic trauma,"swelling, leg pain",99,87,35.7,21,98.0,4.5,days,,,Diabetes,Low,Emergency
+3dd76421,20.0,M,shortness of breath,"fatigue, difficulty breathing",105,88,37.05,18,95.0,1.6,hours,,,,Low,General_Medicine
+41538249,76.0,F,severe headache,"throbbing headache, vomiting",90,79,36.77,26,96.0,6.0,hours,,,,Low,Neurology
+780d6a76,86.0,M,abdominal pain,"loose stools, vomiting",120,96,37.74,17,100.0,0.5,months,,Antibiotics,,Low,General_Medicine
+d8124f56,79.0,M,road traffic trauma,"leg pain, swelling",116,65,35.56,10,94.0,2.0,hours,,,,Low,Emergency
+cc22571b,31.0,F,abdominal pain,"vomiting, stomach pain",148,65,37.62,16,99.0,0.6,days,,,,Low,General_Medicine
+5ca15b03,65.0,F,fever and cough,"high fever, dry cough",145,93,38.16,12,94.0,0.5,days,Seafood,Antihypertensives,Asthma,Low,General_Medicine
+ec5ca8cf,45.0,M,abdominal pain,"vomiting, loose stools",126,90,38.81,21,96.0,2.6,days,,,"Asthma, COPD",Low,General_Medicine
+b6274893,71.0,M,shortness of breath,"wheezing, fatigue",134,50,38.09,20,100.0,16.1,hours,,"Aspirin, Antihypertensives",,Low,General_Medicine
+25452711,53.0,F,fever and cough,"high fever, body pain",133,127,37.02,24,99.0,0.5,days,,Antihypertensives,,Low,General_Medicine
+2ff1bbeb,52.0,F,severe headache,"nausea, vomiting",82,68,36.07,8,96.0,3.9,hours,Penicillin,,,Low,Neurology
+9a92cd92,67.0,M,fever and cough,"body pain, high fever",92,70,36.2,14,96.0,12.5,hours,,,,Low,General_Medicine
+5546e59f,81.0,F,general weakness,"tiredness, malaise",140,51,36.11,24,98.0,0.5,days,,"Inhalers, Antibiotics",COPD,Low,General_Medicine
+9815ca63,65.0,M,abdominal pain,"stomach pain, vomiting",98,69,36.88,21,91.0,0.8,days,"Seafood, Penicillin",,,Medium,General_Medicine
+b29822ae,79.0,M,fever and cough,"body pain, high fever",105,62,36.79,25,98.0,1.1,hours,,"Antibiotics, Paracetamol",,Low,General_Medicine
+739ecc1b,52.0,F,shortness of breath,"fatigue, wheezing",109,89,36.78,18,95.0,3.3,hours,Dust,,,Low,General_Medicine
+e6758805,47.0,F,abdominal pain,"loose stools, stomach pain",123,53,36.83,19,96.0,5.5,hours,,"Antibiotics, Aspirin",,Low,General_Medicine
+062ee5f9,76.0,F,fever and cough,"body pain, high fever",163,130,35.92,26,93.0,10.0,hours,,,,Medium,General_Medicine
+92917798,19.0,F,general weakness,"loss of appetite, malaise",113,111,37.1,20,100.0,0.5,months,,,,Low,General_Medicine
+9b9d84fa,62.0,F,general weakness,"tiredness, loss of appetite",110,51,36.72,13,95.0,2.5,days,Dust,Antibiotics,"COPD, Hypertension",Low,General_Medicine
+ee721d2e,83.0,F,fever and cough,"dry cough, high fever",109,110,37.8,10,94.0,11.1,hours,Dust,Antibiotics,"Asthma, Hypertension",Low,General_Medicine
+2b64dbb7,53.0,F,general weakness,"malaise, tiredness",130,87,35.15,17,94.0,1.6,hours,"NSAIDs, Penicillin",,,Low,General_Medicine
+34a59822,84.0,M,shortness of breath,"fatigue, wheezing",94,68,38.92,15,100.0,1.0,hours,Seafood,,"CAD, Diabetes",Medium,General_Medicine
+e12c2d0a,56.0,F,general weakness,"loss of appetite, tiredness",112,62,37.14,25,93.0,1.7,hours,Dust,Aspirin,,Low,General_Medicine
+e8b296cb,35.0,M,general weakness,"tiredness, loss of appetite",101,76,38.66,21,93.0,1.5,hours,"Penicillin, Dust",Antihypertensives,CAD,Low,General_Medicine
+e014c4d6,32.0,F,general weakness,"loss of appetite, malaise",91,55,35.96,17,94.0,1.6,days,,,Asthma,Low,General_Medicine
+54923559,82.0,M,chest pain,"radiating to left arm, sweating",90,109,37.44,18,97.0,4.5,months,"Seafood, Dust",Paracetamol,,Medium,Cardiology
+6c4efde2,36.0,M,general weakness,"malaise, loss of appetite",104,87,38.16,16,94.0,2.2,hours,"Penicillin, Dust",Paracetamol,,Low,General_Medicine
+e6950001,72.0,M,general weakness,"malaise, loss of appetite",129,63,38.75,23,96.0,4.5,hours,,,,Low,General_Medicine
+b1bc1afc,86.0,M,severe headache,"nausea, throbbing headache",95,103,37.62,14,92.0,1.6,hours,,,COPD,Medium,Neurology
+649cf6a4,65.0,M,fever and cough,"dry cough, body pain",106,114,38.61,15,97.0,3.6,hours,,Antihypertensives,Diabetes,Low,General_Medicine
+c58ee0a5,47.0,M,fever and cough,"dry cough, body pain",144,56,37.57,19,99.0,2.3,hours,Seafood,,Hypertension,Low,General_Medicine
+524ae35a,83.0,M,abdominal pain,"vomiting, stomach pain",134,111,36.83,17,95.0,1.8,hours,Dust,"Aspirin, Antibiotics",Diabetes,Low,General_Medicine
+c90b53cb,66.0,M,fever and cough,"body pain, high fever",134,94,37.58,18,96.0,0.6,hours,,,,Low,General_Medicine
+137191cc,88.0,M,severe headache,"vomiting, throbbing headache",114,54,37.73,22,100.0,4.2,hours,Seafood,Antibiotics,,Low,Neurology
+c5d955ac,52.0,F,severe headache,"throbbing headache, vomiting",137,90,36.96,19,93.0,3.7,months,,,,Low,Neurology
+e1f72fe5,77.0,F,abdominal pain,"vomiting, loose stools",123,97,36.87,17,95.0,4.5,days,,,,Low,General_Medicine
+2c0956e2,84.0,F,fever and cough,"high fever, body pain",135,109,37.15,19,100.0,3.7,days,,Aspirin,,Low,General_Medicine
+7dd1884a,38.0,F,chest pain,"central chest pain, radiating to left arm",120,84,37.51,13,96.0,7.0,hours,Penicillin,Antibiotics,,Low,Cardiology
+3255e957,56.0,M,abdominal pain,"vomiting, stomach pain",131,83,37.23,18,98.0,0.5,days,Dust,"Aspirin, Antibiotics",CAD,Low,General_Medicine
+e601031a,43.0,F,abdominal pain,"stomach pain, loose stools",131,84,37.48,13,100.0,6.2,hours,,,CAD,Low,General_Medicine
+926c25d6,70.0,F,general weakness,"malaise, loss of appetite",96,98,36.34,19,100.0,1.1,days,,,,Low,General_Medicine
+2fb38332,76.0,F,abdominal pain,"loose stools, vomiting",139,91,37.27,12,98.0,9.3,hours,,Aspirin,Hypertension,Low,General_Medicine
+0e18913b,38.0,M,general weakness,"tiredness, malaise",92,48,36.84,16,99.0,0.5,hours,"NSAIDs, Penicillin","Paracetamol, Antibiotics",,Low,General_Medicine
+ac08027c,26.0,F,chest pain,"sweating, central chest pain",138,54,37.59,14,100.0,2.7,months,Penicillin,,Asthma,Low,Cardiology
+12c88b60,84.0,M,road traffic trauma,"leg pain, bleeding from wound",131,88,38.61,16,92.0,6.3,months,Penicillin,,Hypertension,Medium,Emergency
+398fc9eb,63.0,F,general weakness,"malaise, tiredness",128,55,37.33,18,100.0,4.7,hours,,Aspirin,Asthma,Low,General_Medicine
+36c2f5ef,31.0,F,general weakness,"malaise, tiredness",119,73,36.62,11,100.0,0.5,hours,,Antibiotics,,Low,General_Medicine
+d30c868c,66.0,M,abdominal pain,"loose stools, stomach pain",105,113,36.45,14,97.0,0.5,days,,,Diabetes,Low,General_Medicine
+c907c6bc,61.0,F,shortness of breath,"difficulty breathing, wheezing",126,95,38.55,14,96.0,1.3,days,,,Diabetes,Low,General_Medicine
+2c9f8339,65.0,M,dizziness,"near fainting, giddiness",114,64,37.27,19,94.0,1.6,days,,Aspirin,"COPD, Asthma",Low,General_Medicine
+0c7ac8f1,38.0,M,chest pain,"central chest pain, radiating to left arm",114,89,37.47,16,96.0,1.4,days,,"Aspirin, Antibiotics",,Low,Cardiology
+bc24a97a,24.0,M,general weakness,"tiredness, malaise",133,97,36.57,21,94.0,1.3,days,,,Diabetes,Low,General_Medicine
+81f532d7,53.0,F,road traffic trauma,"bleeding from wound, swelling",106,89,37.39,15,100.0,7.4,hours,Penicillin,,"COPD, Asthma",Low,Emergency
+7d806c21,65.0,F,chest pain,"sweating, central chest pain",112,87,36.5,18,99.0,22.6,hours,NSAIDs,Antihypertensives,,Low,Cardiology
+2fe00b42,75.0,M,shortness of breath,"difficulty breathing, wheezing",110,109,36.42,22,90.0,2.2,hours,,,,Medium,General_Medicine
+f3cdd9be,28.0,M,general weakness,"loss of appetite, malaise",116,107,36.58,9,98.0,0.8,months,,Paracetamol,,Low,General_Medicine
+20d7f630,36.0,M,severe headache,"nausea, vomiting",143,118,37.2,19,100.0,0.5,hours,,,,Low,Neurology
+5cdccd11,21.0,F,dizziness,"near fainting, weakness",113,103,36.94,12,100.0,0.6,days,,,COPD,Low,General_Medicine
+612461a1,52.0,F,dizziness,"giddiness, weakness",122,86,38.59,16,97.0,6.1,hours,Dust,,"Hypertension, Diabetes",Low,General_Medicine
+447f4b48,45.0,M,shortness of breath,"difficulty breathing, wheezing",103,74,36.87,15,95.0,6.2,hours,,"Aspirin, Inhalers","Asthma, Diabetes",Low,General_Medicine
+2b193c68,54.0,M,abdominal pain,"loose stools, vomiting",116,110,37.61,16,92.0,7.8,hours,Dust,Aspirin,,Low,General_Medicine
+7e8d03e4,54.0,M,severe headache,"vomiting, nausea",96,86,37.64,19,100.0,1.3,months,,"Antibiotics, Paracetamol",,Low,Neurology
+2664ea45,57.0,M,fever and cough,"dry cough, body pain",117,85,37.74,19,96.0,5.2,hours,Penicillin,,,Low,General_Medicine
+7cde7cfd,48.0,M,general weakness,"loss of appetite, malaise",105,98,37.53,21,100.0,4.3,hours,,,,Low,General_Medicine
+d4f44c6d,31.0,F,shortness of breath,"fatigue, difficulty breathing",120,61,37.5,17,96.0,8.9,hours,,,CAD,Low,General_Medicine
+81841ddb,63.0,F,severe headache,"nausea, vomiting",107,112,37.3,23,93.0,15.1,hours,,,"Asthma, CAD",Medium,Neurology
+2fff0412,71.0,M,severe headache,"nausea, throbbing headache",126,79,37.44,14,97.0,1.2,hours,,Inhalers,Diabetes,Low,Neurology
+3550583f,78.0,F,road traffic trauma,"leg pain, bleeding from wound",105,67,37.23,21,97.0,3.2,days,,,,Low,Emergency
+57c9e0e0,86.0,F,severe headache,"throbbing headache, vomiting",140,45,37.62,19,100.0,1.8,days,,Antibiotics,,Low,Neurology
+30bce687,78.0,F,fever and cough,"dry cough, high fever",111,84,36.21,16,96.0,6.5,hours,,Antibiotics,"Asthma, Hypertension",Low,General_Medicine
+073e26ee,34.0,F,road traffic trauma,"swelling, leg pain",113,60,37.67,16,100.0,1.2,hours,,"Inhalers, Antihypertensives",,Low,Emergency
+2c0bdeb1,51.0,F,general weakness,"loss of appetite, tiredness",109,61,36.65,19,90.0,5.3,hours,,,,Low,General_Medicine
+ba8a97b7,29.0,M,shortness of breath,"difficulty breathing, fatigue",110,40,37.34,24,89.0,5.5,hours,,,,Medium,General_Medicine
+04e6ca0c,50.0,F,abdominal pain,"loose stools, vomiting",127,77,36.37,14,100.0,7.5,hours,,"Aspirin, Paracetamol","Asthma, CAD",Low,General_Medicine
+0ffd8d14,56.0,M,general weakness,"loss of appetite, tiredness",99,65,36.59,12,96.0,0.5,hours,,,"Diabetes, Asthma",Low,General_Medicine
+a89deaef,46.0,F,chest pain,"radiating to left arm, sweating",139,84,36.69,19,95.0,4.3,days,,Aspirin,,Low,Cardiology
+bf2984c4,42.0,M,general weakness,"malaise, tiredness",142,69,37.15,24,95.0,0.5,days,"Seafood, Dust",,,Low,General_Medicine
+f5721aad,45.0,M,fever and cough,"dry cough, high fever",102,74,37.71,17,95.0,2.1,months,,"Inhalers, Aspirin","Asthma, Diabetes",Low,General_Medicine
+ba2819c1,40.0,M,general weakness,"loss of appetite, malaise",131,116,37.51,21,93.0,4.3,days,,Antihypertensives,CAD,Low,General_Medicine
+f3e934e5,56.0,F,shortness of breath,"fatigue, wheezing",140,67,38.6,13,99.0,0.9,years,,,"Diabetes, COPD",Low,Pulmonology
+141a6062,60.0,F,shortness of breath,"fatigue, wheezing",132,80,36.94,16,97.0,2.2,months,,Antihypertensives,,Low,General_Medicine
+67236c93,26.0,M,fever and cough,"high fever, body pain",101,116,36.33,17,98.0,0.5,years,,"Paracetamol, Aspirin",,Low,General_Medicine
+8ab604ad,49.0,M,dizziness,"near fainting, giddiness",134,81,36.33,19,90.0,0.5,hours,Penicillin,Aspirin,,Low,General_Medicine
+9319f967,78.0,M,general weakness,"loss of appetite, malaise",149,74,36.05,12,94.0,1.2,days,"Penicillin, NSAIDs",,"CAD, Asthma",Low,General_Medicine
+a1b3dc8d,38.0,M,road traffic trauma,"leg pain, swelling",101,66,38.57,25,94.0,2.8,hours,,"Inhalers, Antibiotics",,Medium,Orthopedics
+fa5dc9d2,35.0,F,shortness of breath,"wheezing, fatigue",121,64,36.95,10,95.0,0.7,hours,,,,Low,General_Medicine
+b4fd53da,70.0,M,severe headache,"vomiting, nausea",138,75,36.89,20,99.0,2.4,hours,,,Hypertension,Low,Neurology
+06713719,53.0,F,fever and cough,"high fever, dry cough",107,70,36.96,23,98.0,1.1,days,"Penicillin, Dust",Inhalers,Asthma,Low,General_Medicine
+54ee9c2e,82.0,F,road traffic trauma,"bleeding from wound, leg pain",130,133,35.47,15,93.0,13.7,hours,"Penicillin, NSAIDs",,,Medium,Orthopedics
+67eed9a5,65.0,M,shortness of breath,"difficulty breathing, wheezing",89,78,36.49,18,100.0,7.3,hours,Dust,"Antibiotics, Antihypertensives",,Medium,General_Medicine
+ad4e3d46,47.0,M,chest pain,"central chest pain, sweating",105,133,38.58,8,97.0,0.6,months,Dust,Antihypertensives,"COPD, Diabetes",Medium,Cardiology
+7300f8a9,79.0,M,dizziness,"near fainting, weakness",106,84,38.68,20,97.0,1.9,days,,,CAD,Low,General_Medicine
+f613f266,86.0,M,general weakness,"loss of appetite, tiredness",102,89,36.64,17,100.0,2.4,hours,Penicillin,,,Low,General_Medicine
+2bed8f1b,46.0,F,shortness of breath,"difficulty breathing, wheezing",97,48,36.23,15,100.0,5.1,hours,Penicillin,,,Low,General_Medicine
+ab0a99fb,20.0,M,abdominal pain,"vomiting, loose stools",119,68,36.73,19,97.0,2.2,hours,,"Inhalers, Antibiotics",CAD,Low,General_Medicine
+f9ee6be1,63.0,M,general weakness,"loss of appetite, malaise",112,67,38.86,22,95.0,0.6,hours,,Paracetamol,CAD,Low,General_Medicine
+e0022d90,50.0,F,chest pain,"sweating, central chest pain",125,93,37.22,18,95.0,8.2,hours,,,CAD,Low,Cardiology
+a8417234,50.0,M,fever and cough,"high fever, dry cough",108,40,36.92,13,92.0,3.9,hours,,"Inhalers, Antihypertensives",,Low,General_Medicine
+2609f4a5,50.0,F,dizziness,"near fainting, weakness",116,96,38.25,16,97.0,6.3,hours,"Seafood, Dust",Inhalers,,Low,General_Medicine
+2b723dc0,78.0,M,severe headache,"nausea, throbbing headache",74,70,37.34,23,99.0,0.5,days,"Seafood, Penicillin",Aspirin,Diabetes,Medium,Neurology
+e9cdddde,27.0,F,fever and cough,"dry cough, body pain",155,82,38.37,17,92.0,2.7,hours,,Paracetamol,,Low,General_Medicine
+f6b712a8,20.0,F,road traffic trauma,"leg pain, bleeding from wound",135,105,37.35,17,96.0,4.3,hours,,Paracetamol,Asthma,Low,Orthopedics
+0620ff1d,88.0,M,abdominal pain,"stomach pain, loose stools",142,141,37.48,13,90.0,3.8,days,,Antihypertensives,,Medium,General_Medicine
+9e10aa78,37.0,F,dizziness,"weakness, near fainting",94,74,37.44,18,97.0,2.8,hours,Dust,,"Hypertension, Asthma",Low,General_Medicine
+dcdd71db,85.0,M,severe headache,"nausea, throbbing headache",115,93,38.6,19,98.0,0.5,days,,,"COPD, Hypertension",Low,Neurology
+P0009,24.0,M,Palpitations,"Rapid heartbeat, anxiety",120,-72,36.8,18,99.0,2.0,hours,None,None,None,Low,General_Medicine
+P0010,31.0,F,Headache,"Mild headache, fatigue",120,82,36.7,16,98.0,1.0,days,None,None,None,Low,Neurology
+P0011,19.0,T,Fever,"Chills, body ache",118,96,38.9,20,97.0,1.0,days,None,Paracetamol,None,Low,General_Medicine
+P0012,,M,Dizziness,Lightheadedness,110,78,36.6,17,99.0,3.0,hours,None,None,None,Low,General_Medicine
+P0013,27.0,F,Chest discomfort,Mild chest tightness,124,999,36.9,18,98.0,4.0,hours,None,None,None,Low,General_Medicine
+P0014,22.0,T,Fatigue,,118,76,36.5,16,99.0,3.0,days,None,None,None,Low,General_Medicine
+P0015,18.0,M,General checkup,asdfgh,120,72,36.7,16,99.0,1.0,days,None,None,None,Low,General_Medicine
+P0016,54.0,F,Severe headache,"Throbbing pain, vision spots",220,92,37.0,18,97.0,6.0,hours,None,Amlodipine,Hypertension,Low,Neurology
+P0017,21.0,T,Palpitations,"Very rapid heartbeat, sweating",130,182,37.1,24,96.0,30.0,minutes,None,None,None,Low,General_Medicine
+P0018,33.0,M,Fatigue,"Weakness, dizziness",108,38,36.4,14,98.0,2.0,days,None,Beta blockers,Bradycardia,Low,General_Medicine
+P0019,9.0,F,High fever,"Hot skin, chills, lethargy",100,130,41.3,28,95.0,8.0,hours,None,Paracetamol,None,Medium,General_Medicine
+P0020,42.0,M,Shivering,"Cold skin, confusion",112,60,34.2,15,98.0,6.0,hours,None,None,Hypothyroidism,Low,General_Medicine
+P0021,23.0,F,Dizziness,"Lightheadedness, cold sweat",88,126,36.8,20,97.0,1.0,days,None,None,Anemia,Medium,General_Medicine
+P0022,19.0,T,Shortness of breath,"Wheezing, chest tightness",118,104,37.2,26,,6.0,hours,Dust,Salbutamol inhaler,Asthma,Low,General_Medicine
+P0023,27.0,M,Palpitations,"Mild anxiety, fast heartbeat",120,99,36.7,18,99.0,2.0,hours,None,None,None,Low,General_Medicine
+P0024,27.0,F,Palpitations,"Mild anxiety, fast heartbeat",120,100,36.7,18,99.0,2.0,hours,None,None,None,Low,General_Medicine
+P0025,29.0,M,Headache,"Mild headache, stress",139,84,36.6,16,98.0,1.0,days,None,None,None,Low,Neurology
+P0026,29.0,T,Headache,"Mild headache, stress",140,84,36.6,16,98.0,1.0,days,None,None,Hypertension,Low,Neurology
+P0027,8.0,F,Fever,"Warm skin, irritability",110,112,37.9,24,97.0,1.0,days,None,Paracetamol,None,Low,General_Medicine
+P0028,8.0,M,Fever,"Warm skin, irritability",110,112,38.0,24,97.0,1.0,days,None,Paracetamol,None,Low,General_Medicine
+P0029,64.0,F,Fatigue,"Low energy, mild weakness",128,76,36.7,16,98.0,1.0,week,None,Vitamin D,None,Low,General_Medicine
+P0030,65.0,M,Fatigue,"Low energy, mild weakness",128,76,36.7,16,98.0,1.0,week,None,Vitamin D,Hypertension,Low,General_Medicine
+P0031,21.0,T,Chest pain,"Severe central chest pain, nausea",122,74,36.8,18,99.0,45.0,minutes,None,None,None,Low,Cardiology
+P0032,25.0,M,Mild headache,Slight headache only,210,88,36.7,18,98.0,6.0,hours,None,None,None,Low,Neurology
+P0033,16.0,F,Fever,"High fever, chills",112,52,39.1,20,97.0,1.0,days,None,None,None,Low,General_Medicine
+P0034,28.0,T,Headache,"Severe headache, blurred vision",198,92,36.9,19,98.0,8.0,hours,None,Amlodipine,Hypertension,Low,Neurology
+P0035,72.0,F,Fatigue,"Mild fatigue only, slower activity",124,74,36.5,16,97.0,2.0,weeks,None,Aspirin,Coronary Artery Disease,Low,General_Medicine
+P0036,63.0,M,Leg swelling,"leg pain, swelling",140,82,36.8,20,95.0,4.0,days,None,None,Varicose veins,Low,General_Medicine
+P0037,4.0,F,Breathing difficulty,"cough, fast breathing, chest retractions",90,140,38.8,42,89.0,2.0,days,Dust,None,None,High,General_Medicine
+P0038,29.0,Transgender,Breathing difficulty,"shortness of breath, wheezing",122,112,37.6,30,90.0,5.0,hours,None,Inhaler,Asthma,Medium,General_Medicine
+P0039,14.0,F,Dizziness,"dizziness, fatigue, paleness",92,108,37.2,20,97.0,3.0,days,None,Iron syrup,Anemia,Low,General_Medicine
+P0040,1.0,M,High fever,"high fever, poor feeding, lethargy",78,162,39.5,38,91.0,8.0,hours,None,None,None,High,General_Medicine
+P0041,48.0,M,Chest pain,"chest tightness, sweating, nausea",155,108,36.9,26,92.0,20.0,minutes,None,Amlodipine,Diabetes,Medium,Cardiology
+P0042,11.0,F,Abdominal pain,"abdominal pain, vomiting, fever",95,120,38.8,28,95.0,12.0,hours,None,Paracetamol,None,Medium,General_Medicine
+P0043,74.0,F,Fall at home,"hip pain, unable to walk",130,90,36.9,22,94.0,3.0,hours,None,Calcium supplements,Osteoporosis,Low,General_Medicine
+P0044,35.0,M,Burn injury,"hand burn, blistering",120,102,37.0,22,98.0,1.0,hours,None,None,None,Low,General_Medicine
+P0045,92.0,F,Breathing difficulty,"shortness of breath, cough",88,115,38.0,34,88.0,1.0,days,None,None,COPD,High,General_Medicine
+P0046,22.0,F,Lower abdominal pain,"lower abdominal pain, missed periods",108,96,37.2,20,98.0,2.0,days,None,None,None,Low,General_Medicine
+P0047,69.0,Transgender,Fatigue,"fatigue, weight loss",128,78,36.7,18,97.0,2.0,weeks,None,Metformin,Diabetes,Low,General_Medicine
+P0048,50.0,M,Chest pain,"chest tightness, sweating, nausea",150,102,36.9,24,93.0,45.0,minutes,None,Amlodipine,Diabetes,Low,Cardiology
+P0049,87.0,M,Low blood sugar,"sweating, confusion, tremors",102,60,36.3,18,96.0,45.0,minutes,None,Insulin,Diabetes,Low,General_Medicine
+P0050,76.0,Transgender,Sudden weakness,"one-sided weakness, slurred speech",172,92,37.0,22,95.0,25.0,minutes,None,Aspirin,Hypertension,Low,General_Medicine
+P0051,27.0,M,High fever,"fever, body pain, headache",110,105,39.1,22,97.0,2.0,days,None,Paracetamol,None,Low,General_Medicine
+P0052,41.0,F,Breast pain,"localized pain, mild fever",118,92,37.7,20,98.0,1.0,days,Penicillin,None,None,Low,General_Medicine
+P0053,55.0,F,Joint pain,"joint pain, morning stiffness",130,84,36.7,20,98.0,3.0,months,None,Painkillers,Arthritis,Low,General_Medicine
+P0054,44.0,Transgender,Palpitations,"fast heartbeat, anxiety",138,128,36.8,24,96.0,40.0,minutes,None,None,Thyroid disorder,Low,General_Medicine
+P0055,61.0,M,Frequent urination,"frequent urination, thirst",145,88,36.9,20,97.0,2.0,weeks,None,None,Diabetes,Low,General_Medicine
+P0056,6.0,Transgender,Skin rash,"itchy rash, swelling of lips",92,128,37.4,26,95.0,30.0,minutes,Peanuts,None,Allergy,Low,General_Medicine
+P0057,68.0,F,Severe cough,"cough with blood, weight loss",120,94,37.8,24,92.0,3.0,weeks,None,None,None,Low,General_Medicine
+P0058,9.0,M,Severe stomach pain,"abdominal pain, vomiting, fever",98,118,38.2,26,96.0,10.0,hours,None,Paracetamol,None,Low,General_Medicine
+P0059,81.0,M,Confusion,"confusion, drowsiness",100,58,36.6,18,93.0,1.0,days,None,None,Alzheimer's,Low,General_Medicine
+P0060,95.0,F,Unresponsive,loss of consciousness,70,42,35.8,10,85.0,10.0,minutes,Unknown,Unknown,Hypertension,High,General_Medicine
